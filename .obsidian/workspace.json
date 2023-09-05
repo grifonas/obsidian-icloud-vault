@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snowflake-Pipes.md",
-                "mode": "preview",
+                "file": "Terraform.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "state",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snowflake-Pipes.md",
+                "file": "Terraform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snowflake-Pipes.md",
+                "file": "Terraform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snowflake-Pipes.md"
+                "file": "Terraform.md"
               }
             }
           }
@@ -150,7 +151,9 @@
   "active": "721c8e163b0d21d8",
   "lastOpenFiles": [
     "Snowflake-Pipes.md",
+    "Pizza Dough.md",
     "Untitled.md",
+    "Sparkasse_Reset_Password.md",
     "2023-08-29.md",
     "Untitled 1.canvas",
     "Untitled.canvas",

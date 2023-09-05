@@ -6,13 +6,15 @@ Taken from https://developer.hashicorp.com/terraform/tutorials/cloud/migrate-rem
 
 1. Replace backend config: `backend s3` > `cloud`:
 ```hcl
-cloud {
+terraform {
+  cloud {
     hostname = "app.terraform.io"
     organization = "contiamo"
     workspaces {
       tags = ["jupyter-hub"]
     }
   }
+}
 ```
 
-2. Run `terraform init`
+	1. Run `terraform init`

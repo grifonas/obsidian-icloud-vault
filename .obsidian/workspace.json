@@ -146,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,7 +159,7 @@
       "obsidian-trim-whitespace:Trim whitespace": false
     }
   },
-  "active": "7fbe4a42e176c2a0",
+  "active": "4f6705e776ad5fb9",
   "lastOpenFiles": [
     "Terraform.md",
     "MPathic_DBT.md",

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K3S.md",
-                "mode": "preview",
+                "file": "Terraform.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "K3S.md",
+                "file": "Terraform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "K3S.md",
+                "file": "Terraform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "K3S.md"
+                "file": "Terraform.md"
               }
             }
           }
@@ -149,12 +149,13 @@
   },
   "active": "7fbe4a42e176c2a0",
   "lastOpenFiles": [
+    "1Password Tips.md",
+    "K3S.md",
     "SShuttle.md",
     "Terraform.md",
     "Sparkasse_Reset_Password.md",
     "2023-06-23.md",
     "Azure Pipelines Git.md",
-    "1Password Tips.md",
     "Contiamo/Datahub_Upgrades.md",
     "Telekom/MPathic_DBT.md",
     "Gautzsch",

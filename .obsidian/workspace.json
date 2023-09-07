@@ -146,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,13 +160,14 @@
       "obsidian-trim-whitespace:Trim whitespace": false
     }
   },
-  "active": "4f6705e776ad5fb9",
+  "active": "7fbe4a42e176c2a0",
   "lastOpenFiles": [
-    "Terraform.md",
-    "MPathic_DBT.md",
-    "Untitled.canvas",
     "Snowflake-Pipes.md",
+    "Snowflake Key Auth.md",
+    "MPathic_DBT.md",
     "Pizza Dough.md",
+    "Terraform.md",
+    "Untitled.canvas",
     "Sparkasse_Reset_Password.md",
     "2023-08-29.md",
     "Untitled 1.canvas",

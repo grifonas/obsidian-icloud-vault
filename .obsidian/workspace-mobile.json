@@ -134,11 +134,13 @@
   },
   "active": "b140b661fb4e5db1",
   "lastOpenFiles": [
+    "MPathic_DBT.md",
+    "CBRE/CBRE-Core-Module.md",
+    "Azure Pipelines Git.md",
     "Snowflake-Pipes.md",
     "Terraform.md",
     "Pizza Dough.md",
     "2023-08-29.md",
-    "Azure Pipelines Git.md",
     "2023-06-23.md",
     "2023-06-22.md",
     "Snowflake Key Auth.md",
@@ -154,7 +156,6 @@
     "CBRE/CBRE-Migration-to-Snowflake-Infra-Docs.md",
     "CBRE/CBRE-Migration-to-Snowflake-Naming.md",
     "CBRE/CBRE-Replatforming-Terraform.md",
-    "CBRE/CBRE-Core-Module.md",
     "GT7.md",
     "Test_Sync.md",
     "Test-me-iCloud-vault.md"

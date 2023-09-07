@@ -1,3 +1,5 @@
+#k8s #kubernetes
+
 # K3S Tips
 
 ## Install

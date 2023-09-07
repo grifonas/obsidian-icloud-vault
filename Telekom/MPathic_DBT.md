@@ -25,3 +25,6 @@ poetry run dbt build --target prod
 - Every run generates artefacts
 - Artefacts are stored in `target`
 - Already deployed manually by MPathic (@Gourav Saklecha) to http://dwh-dbt-doc.s3-website.eu-central-1.amazonaws.com/#!/overview
+
+> [! Callout test]
+> Nice

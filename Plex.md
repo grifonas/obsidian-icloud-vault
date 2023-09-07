@@ -12,4 +12,6 @@ Going to the DNS will result in the prompts to **"Get Media Server"**
 
 ## Pi4-K8S
 Scaled the deployment down to 0.
-Poor quality on TV and PS5  🤷‍♀
+
+> [!bug]
+> Poor quality on TV and PS5 when installed in K8S   🤷‍♀

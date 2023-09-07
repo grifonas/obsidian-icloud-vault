@@ -1,3 +1,5 @@
+#recipe
+#cooking
 
 - Enough for 6 People: https://anitalianinmykitchen.com/best-pizza-dough/#recipe
 
@@ -28,4 +30,4 @@
 #### NEXT STEPS
 
 - Place in a lightly oiled bowl, roll the dough to cover lightly with the oil, cover the bowl with plastic wrap and a large clean kitchen towel, leave in a warm draft free area until doubled in bulk, approximately 2 hours.
-- etc. 
+- etc.

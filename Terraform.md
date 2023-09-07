@@ -5,6 +5,8 @@
 Taken from https://developer.hashicorp.com/terraform/tutorials/cloud/migrate-remote-s3-backend-tfc
 
 1. Replace backend config: `backend s3` > `cloud`:
+```
+```
 ```hcl
 terraform {
   cloud {

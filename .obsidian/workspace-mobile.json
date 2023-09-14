@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-06-22.md",
+                "file": "Plex.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2023-06-22.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2023-06-22.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +111,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "2023-06-22.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -134,6 +130,14 @@
   },
   "active": "b140b661fb4e5db1",
   "lastOpenFiles": [
+    "Contiamo/Datahub_Upgrades.md",
+    "Contiamo/Snowflake Key Auth.md",
+    "Contiamo",
+    "1Password Tips.md",
+    "Gautzsch/Gautzsch.md",
+    "Gautzsch",
+    "Telekom/MPathic_DBT.md",
+    "Telekom",
     "Plex.md",
     "Pizza Dough.md",
     "CBRE/CBRE-Core-Module.md",
@@ -154,10 +158,6 @@
     "Sparkasse_Reset_Password.md",
     "CBRE/CBRE_Holiday_Handover_01.08.23.md",
     "CBRE/CBRE-Migration-to-Snowflake-Infra-Docs.md",
-    "CBRE/CBRE-Migration-to-Snowflake-Naming.md",
-    "CBRE/CBRE-Replatforming-Terraform.md",
-    "GT7.md",
-    "Test_Sync.md",
-    "Test-me-iCloud-vault.md"
+    "CBRE/CBRE-Migration-to-Snowflake-Naming.md"
   ]
 }

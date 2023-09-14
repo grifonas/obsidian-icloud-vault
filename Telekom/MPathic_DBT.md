@@ -1,3 +1,4 @@
+#telekom #dbt
 
 # DBT for data Platform
 

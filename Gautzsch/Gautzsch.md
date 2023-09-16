@@ -1,4 +1,6 @@
-# Gautzsch Setup
+#gautzsch
+
+## Gautzsch Setup
 
 ## Connection:
 - We connect to their network using a Windows machine running in our AWS Details in [1Password](https://start.1password.com/open/i?a=7BGSQM4UKVEJTK5H3MNEJ67YL4&v=vjr4zmjabwzxt2b5j5uc3r33oq&i=ht2ypv64dmplemivukvqixwp3e&h=contiamo.1password.com)

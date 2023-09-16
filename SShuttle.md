@@ -1,4 +1,7 @@
 # SShuttle
+
+#tech-tip 
+
 https://github.com/sshuttle/sshuttle
 
 Useful for airgapped deployments. Use SSHuttle to route all traffic through an SSH tunnel.
@@ -19,7 +22,7 @@ Where:
 ```bash
 sudo vim /etc/systemd/system/sshuttle.service
 ```
-- Paste: 
+- Paste:
 ```
 [Unit]
 Description=SSHuttle VPN

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GT7.md",
-                "mode": "preview",
+                "file": "Pizza Dough.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "GT7.md",
+            "file": "Pizza Dough.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "GT7.md",
+            "file": "Pizza Dough.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "GT7.md"
+            "file": "Pizza Dough.md"
           }
         }
       }
@@ -135,33 +135,33 @@
   "active": "a43ab5baf1aa8ac7",
   "lastOpenFiles": [
     "Plex.md",
+    "Sparkasse_Reset_Password.md",
+    "SShuttle.md",
+    "Terraform.md",
+    "_Sorted_.md",
+    "1Password Tips.md",
+    "Telekom/MPathic_DBT.md",
+    "GT7.md",
     "CBRE/CBRE-Core-Module.md",
     "Azure Pipelines Git.md",
     "Contiamo/Datahub_Upgrades.md",
     "Contiamo/Snowflake Key Auth.md",
     "Contiamo",
-    "1Password Tips.md",
     "Gautzsch/Gautzsch.md",
     "Gautzsch",
-    "Telekom/MPathic_DBT.md",
     "Telekom",
     "Pizza Dough.md",
     "MPathic_DBT.md",
     "Snowflake-Pipes.md",
-    "Terraform.md",
     "2023-08-29.md",
     "2023-06-23.md",
     "2023-06-22.md",
     "Snowflake Key Auth.md",
-    "SShuttle.md",
     "Gautzsch.md",
     "Kubectl-Tricks.md",
     "K3S.md",
     "CBRE/CBRE-Migration-to-Snowflake-Access.md",
     "Datahub_Upgrades.md",
-    "Sparkasse_Reset_Password.md",
-    "CBRE/CBRE_Holiday_Handover_01.08.23.md",
-    "CBRE/CBRE-Migration-to-Snowflake-Infra-Docs.md",
-    "CBRE/CBRE-Migration-to-Snowflake-Naming.md"
+    "CBRE/CBRE_Holiday_Handover_01.08.23.md"
   ]
 }

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plex.md",
-                "mode": "source",
+                "file": "GT7.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "GT7.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "GT7.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -111,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "GT7.md"
+          }
         }
       }
     ],
@@ -128,8 +132,11 @@
       "obsidian-trim-whitespace:Trim whitespace": false
     }
   },
-  "active": "b140b661fb4e5db1",
+  "active": "a43ab5baf1aa8ac7",
   "lastOpenFiles": [
+    "Plex.md",
+    "CBRE/CBRE-Core-Module.md",
+    "Azure Pipelines Git.md",
     "Contiamo/Datahub_Upgrades.md",
     "Contiamo/Snowflake Key Auth.md",
     "Contiamo",
@@ -138,10 +145,7 @@
     "Gautzsch",
     "Telekom/MPathic_DBT.md",
     "Telekom",
-    "Plex.md",
     "Pizza Dough.md",
-    "CBRE/CBRE-Core-Module.md",
-    "Azure Pipelines Git.md",
     "MPathic_DBT.md",
     "Snowflake-Pipes.md",
     "Terraform.md",

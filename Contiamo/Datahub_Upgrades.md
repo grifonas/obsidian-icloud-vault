@@ -1,4 +1,4 @@
-
+#tech-tip 
 # Datahub Upgrade Issues
 
 ### missing `datahub-auth-secrets` on fresh helm install

@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Sorted_.md",
+                "file": "Telekom/MPathic_DBT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a542f3f11b9a4d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-06-23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#terraform",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Sorted_.md",
+                "file": "2023-06-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Sorted_.md",
+                "file": "2023-06-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,11 +150,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Sorted_.md"
+                "file": "2023-06-23.md"
+              }
+            }
+          },
+          {
+            "id": "2f94ded83d6968cf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -160,10 +183,12 @@
       "obsidian-trim-whitespace:Trim whitespace": false
     }
   },
-  "active": "9b8233504414493b",
+  "active": "1a542f3f11b9a4d6",
   "lastOpenFiles": [
-    "GT7.md",
     "_Sorted_.md",
+    "2023-06-23.md",
+    "1Password Tips.md",
+    "GT7.md",
     "Sparkasse_Reset_Password.md",
     "Plex.md",
     "SShuttle.md",
@@ -172,7 +197,6 @@
     "Contiamo/Snowflake Key Auth.md",
     "Contiamo/Datahub_Upgrades.md",
     "Azure Pipelines Git.md",
-    "2023-06-23.md",
     "Pizza Dough.md",
     "Gautzsch/Gautzsch.md",
     "K3S.md",
@@ -187,7 +211,6 @@
     "CBRE/CBRE-Migration-to-Snowflake-Access.md",
     "CBRE/CBRE-Core-Module.md",
     "CBRE/CBRE_Holiday_Handover_01.08.23.md",
-    "1Password Tips.md",
     "Gautzsch",
     "Telekom",
     "Contiamo",

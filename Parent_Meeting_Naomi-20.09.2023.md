@@ -10,15 +10,16 @@ This includes:
 	- Homework
 # School Events
 - Can be found in the school calendar (see the slides)
-# Notes about Changes this Year
+# Misc. Notes about this Year
 - A lot of the same time slots for same subjects in the timetable.
 - More study time.
 - More Ganztag time.
 - There's a scented candle which helps create a calm atmosphere during study time.
 - Sport and art lessons are now assisted by Mr. Nicholson.
 - Children are asked to come to school wearing their sport clothes on the days when there's a PE lesson.
-- This year there will be more time to take field trips as there's no A/B week split. IN other words, there's now no mandatory project day every second week.
-- **On school trip days there will be no lunch provided by the school. So parents should give children an appropriate lunch.**
+- Avoid congestion in the school yard during pickup time.
+- This year there will be more time to take field trips as there's no A/B week split. In other words, there's now no mandatory project day every second week.
+- **On school trip days there will be no lunch provided by the school. Parents should make sure that children take an appropriate lunch with them.**
 - No electronic devices including smart watches.
 - Write the dates in children's homework books in advance. It makes it much easier for the children to write things down in the right spot.
 - **If a child goes home alone on a regular basis or a regular day, we can email Mr. Nicholson and he can put it in the system so that we don't have to pout this in the homework planner every time.**
@@ -42,12 +43,10 @@ This includes:
 - Rated and checked by the teachers every Friday.
 - In case of tech issues please contact Bug Club first (see the slides).
 
-# Missing School Days; Doctor's Appointments
-- Always email info@platanus-schule.de and CC the Ms Parr and Mr. Nicholson.
-- If a child has to leave in the **middle of the day they  must go up to the secretary office and let them know**.
+# Doctor's Appointments
+- Always email info@platanus-schule.de and CC the Ms Parr and Mr. Nicholson. in advance.
+- If a child has to leave in the **middle of the day they must go up to the secretary office and let them know**.
 
-# Other Admin
-- Avoid congestion in the school yard during pickup time.
 # Class Trip
 - Location: Next to the Baltic Sea. Ahlbeck Jugendferienpark (see the slides).
 - 21.05- 24.05.2024
@@ -70,7 +69,8 @@ This includes:
 - Everyone is encouraged to practice in their own free time/
 - It is a hard requirement to take  and pass the test.
 ## Verkehrsschule Pankow Opening Times
-### 1.03.2023 - 31.10.2024
+https://kinderleicht.berlin/jugendverkehrsschulen-pankow/
+### 1.03 - 31.10
 
 - Montag 15:30 - 18:00 Uhr
 - Dienstag 15:30 - 18:00 Uhr
@@ -78,19 +78,25 @@ This includes:
 - Donnerstag 15:30 - 18:00 Uhr
 - Freitag 15:30 - 18:00 Uhr
 - Samstag 09:00 - 15:00 Uhr
-### 
-## The Practice Stamp Sheet
-- Recommended.
-- This is not a requirement.
-- They will have to use provided bikes
+### 1.11 - 28.02
+
+- Montag 15:30 - 16:00 Uhr
+- Dienstag 15:30 - 16:30 Uhr
+- Mittwoch 15:30 - 16:00 Uhr
+- Donnerstag 15:30 - 16:00 Uhr
+- Freitag 15:30 - 16:00 Uhr
+- Samstag 08:00 - 15:00 Uhr
+### The Practice Stamp Sheet
+- Recommended, not a requirement.
+- The children will use the bilkes provided by the school.
 - No need to book. Just turn up.
 - Details in the latest weekly email.
 
-# What's Important
+# What's Important?
 - Anything that might be affecting the child's wellbeing is strongly recommended to be passed to the team.
 
 # Media Training (Mr. Gaunt)
-- More and more relevant as they grow older
+- More and more relevant as they grow older.
 - There's a prevention programme in school. Part of the media curriculum.
-- **Use of media and devices.** There's a meeting about this for 4 - 7 Fr. Richter and Lüer.
-- Dates: 19.10.23; 01.02.24, 16.05.24 17:00-19:00
+- **Use of media and devices.** Meetings for parents for years 4-7 with Fr. Richter and H. Lüer.
+	- Dates: 19.10.23; 01.02.24, 16.05.24 17:00-19:00

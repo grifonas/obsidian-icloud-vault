@@ -4,6 +4,10 @@
 ```dataview
 LIST FROM #admin SORT file.cdate
 ```
+## Children
+```dataview
+LIST FROM #children SORT file.cdate
+```
 ## Games
 ```dataview
 LIST FROM #ps5 SORT file.cdate

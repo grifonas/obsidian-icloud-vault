@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parent_Meeting_Naomi-20.09.2023.md",
+                "file": "2023-06-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "docker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parent_Meeting_Naomi-20.09.2023.md",
+                "file": "2023-06-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parent_Meeting_Naomi-20.09.2023.md",
+                "file": "2023-06-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Parent_Meeting_Naomi-20.09.2023.md"
+                "file": "2023-06-23.md"
               }
             }
           },
@@ -160,12 +161,12 @@
   },
   "active": "e7e2040595a48897",
   "lastOpenFiles": [
-    "Plex.md",
-    "Parent_Meeting_Naomi-20.09.2023.md",
-    "2023-06-23.md",
     "_Sorted_.md",
-    "1Password Tips.md",
+    "Parent_Meeting_Naomi-20.09.2023.md",
     "GT7.md",
+    "Plex.md",
+    "2023-06-23.md",
+    "1Password Tips.md",
     "Sparkasse_Reset_Password.md",
     "SShuttle.md",
     "Terraform.md",

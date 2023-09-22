@@ -1,14 +1,5 @@
-# Docker
-#tech-tip #docker
-## Multiplatform
-https://docs.docker.com/build/building/multi-platform/
-
-```bash
-docker buildx build --platform linux/amd64,linux/arm64 -t [IMAGE] --push .
-```
-
 # Superset Athena Connector
-
+#telekom #athena #superset
 ```Dockerfile
 FROM apache/superset:2.1.0
 # apache/superset:2.1.0 is out but it has a bug in the db migration script: https://github.com/apache/superset/issues/23483

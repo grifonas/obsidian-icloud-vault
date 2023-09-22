@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-06-23.md",
+                "file": "Docker_Tips.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-06-23.md",
+                "file": "Docker_Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-06-23.md",
+                "file": "Docker_Tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-06-23.md"
+                "file": "Docker_Tips.md"
               }
             }
           },
@@ -162,10 +161,11 @@
   "active": "e7e2040595a48897",
   "lastOpenFiles": [
     "_Sorted_.md",
+    "Telekom/Superst_to_Athena.md",
+    "Docker_Tips.md",
     "Parent_Meeting_Naomi-20.09.2023.md",
     "GT7.md",
     "Plex.md",
-    "2023-06-23.md",
     "1Password Tips.md",
     "Sparkasse_Reset_Password.md",
     "SShuttle.md",
@@ -186,7 +186,6 @@
     "CBRE/CBRE-Migration-to-Snowflake-Naming.md",
     "CBRE/CBRE-Migration-to-Snowflake-Infra-Docs.md",
     "CBRE/CBRE-Migration-to-Snowflake-Access.md",
-    "CBRE/CBRE-Core-Module.md",
     "Gautzsch",
     "Telekom",
     "Contiamo",

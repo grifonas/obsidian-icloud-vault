@@ -8,10 +8,6 @@ LIST FROM #admin SORT file.cdate
 ```dataview
 LIST FROM #children SORT file.cdate
 ```
-## Games
-```dataview
-LIST FROM #ps5 SORT file.cdate
-```
 ## Tech Tips
 
 ```dataview
@@ -21,6 +17,10 @@ SORT file.cdate
 ## Recipes
 ```dataview
 LIST FROM #recipe SORT file.cdate
+```
+## Games
+```dataview
+LIST FROM #ps5 SORT file.cdate
 ```
 # Work
 ## CBRE

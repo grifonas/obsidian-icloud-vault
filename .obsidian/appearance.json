@@ -1,5 +1,8 @@
 {
   "accentColor": "",
   "theme": "system",
-  "cssTheme": "Typewriter"
+  "cssTheme": "Typewriter",
+  "interfaceFontFamily": "B612",
+  "textFontFamily": "B612",
+  "monospaceFontFamily": "B612"
 }

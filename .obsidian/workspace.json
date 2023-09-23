@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a7a817397fbfe540",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "iPhone_15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "docker",
+                "query": "dbt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker_Tips.md",
+                "file": "iPhone_15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker_Tips.md",
+                "file": "iPhone_15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker_Tips.md"
+                "file": "iPhone_15.md"
               }
             }
           },
@@ -158,21 +171,23 @@
       "obsidian-trim-whitespace:Trim whitespace": false
     }
   },
-  "active": "e7e2040595a48897",
+  "active": "a7a817397fbfe540",
   "lastOpenFiles": [
-    "_Sorted_.md",
-    "Telekom/Superst_to_Athena.md",
-    "Docker_Tips.md",
-    "Parent_Meeting_Naomi-20.09.2023.md",
+    "Contiamo/Datahub_Upgrades.md",
     "GT7.md",
+    "Kubectl-Tricks.md",
+    "_Sorted_.md",
+    "Telekom/MPathic_DBT.md",
+    "iPhone_15.md",
+    "Docker_Tips.md",
+    "Telekom/Superst_to_Athena.md",
+    "Parent_Meeting_Naomi-20.09.2023.md",
     "Plex.md",
     "1Password Tips.md",
     "Sparkasse_Reset_Password.md",
     "SShuttle.md",
     "Terraform.md",
-    "Kubectl-Tricks.md",
     "Contiamo/Snowflake Key Auth.md",
-    "Contiamo/Datahub_Upgrades.md",
     "Azure Pipelines Git.md",
     "Pizza Dough.md",
     "Gautzsch/Gautzsch.md",
@@ -180,12 +195,10 @@
     "_Sorted.md",
     "Work by Customers.md",
     "Sorted.md",
-    "Telekom/MPathic_DBT.md",
     "CBRE/Snowflake-Pipes.md",
     "CBRE/CBRE-Replatforming-Terraform.md",
     "CBRE/CBRE-Migration-to-Snowflake-Naming.md",
     "CBRE/CBRE-Migration-to-Snowflake-Infra-Docs.md",
-    "CBRE/CBRE-Migration-to-Snowflake-Access.md",
     "Gautzsch",
     "Telekom",
     "Contiamo",

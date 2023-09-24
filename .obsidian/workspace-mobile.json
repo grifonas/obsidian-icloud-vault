@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "102e08c559def7ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quinoa.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Quinoa.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Quinoa.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +122,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Quinoa.md"
+          }
         }
       }
     ],
@@ -115,6 +132,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-trim-whitespace:Trim whitespace": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -123,8 +141,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a43ab5baf1aa8ac7",
+  "active": "102e08c559def7ea",
   "lastOpenFiles": [
+    "_Sorted_.md",
+    "Quinoa.md",
     "Contiamo/Snowflake Key Auth.md",
     "Contiamo/Datahub_Upgrades.md",
     "CBRE/CBRE-Migration-to-Snowflake-Access.md",
@@ -143,7 +163,6 @@
     "Terraform.md",
     "Parent_Meeting_Naomi-20.09.2023.md",
     "CBRE/CBRE-Replatforming-Terraform.md",
-    "_Sorted_.md",
     "K3S.md",
     "Azure Pipelines Git.md",
     "Telekom/MPathic_DBT.md",
@@ -152,7 +171,6 @@
     "Docker_Tips.md",
     "Contiamo",
     "Gautzsch",
-    "Telekom",
-    "MPathic_DBT.md"
+    "Telekom"
   ]
 }

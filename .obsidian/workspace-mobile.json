@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quinoa.md",
+                "file": "GT7.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Quinoa.md",
+            "file": "GT7.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Quinoa.md",
+            "file": "GT7.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Quinoa.md"
+            "file": "GT7.md"
           }
         }
       }
@@ -141,10 +141,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "102e08c559def7ea",
+  "active": "b140b661fb4e5db1",
   "lastOpenFiles": [
-    "_Sorted_.md",
     "Quinoa.md",
+    "_Sorted_.md",
     "Contiamo/Snowflake Key Auth.md",
     "Contiamo/Datahub_Upgrades.md",
     "CBRE/CBRE-Migration-to-Snowflake-Access.md",

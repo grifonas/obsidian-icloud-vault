@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "iPhone_15.md",
+                "file": "GT7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b623b971bee73352",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datascience_Ops_Workshop.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dbt",
+                "query": "gt7",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "iPhone_15.md",
+                "file": "Datascience_Ops_Workshop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "iPhone_15.md",
+                "file": "Datascience_Ops_Workshop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "iPhone_15.md"
+                "file": "Datascience_Ops_Workshop.md"
               }
             }
           },
@@ -171,18 +183,18 @@
       "obsidian-trim-whitespace:Trim whitespace": false
     }
   },
-  "active": "a7a817397fbfe540",
+  "active": "b623b971bee73352",
   "lastOpenFiles": [
-    "Quinoa.md",
-    "Untitled.md",
     "GT7.md",
+    "Datascience_Ops_Workshop.md",
+    "Telekom/MPathic_DBT.md",
+    "iPhone_15.md",
+    "Quinoa.md",
     "Azure Pipelines Git.md",
     "Parent_Meeting_Naomi-20.09.2023.md",
-    "iPhone_15.md",
     "Contiamo/Datahub_Upgrades.md",
     "Kubectl-Tricks.md",
     "_Sorted_.md",
-    "Telekom/MPathic_DBT.md",
     "Docker_Tips.md",
     "Telekom/Superst_to_Athena.md",
     "Plex.md",

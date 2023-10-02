@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datascience_Ops_Workshop.md",
+                "file": "_Sorted_.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datascience_Ops_Workshop.md",
+                "file": "_Sorted_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datascience_Ops_Workshop.md",
+                "file": "_Sorted_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Datascience_Ops_Workshop.md"
+                "file": "_Sorted_.md"
               }
             }
           },
@@ -185,21 +185,21 @@
   },
   "active": "b623b971bee73352",
   "lastOpenFiles": [
-    "GT7.md",
-    "Datascience_Ops_Workshop.md",
-    "Telekom/MPathic_DBT.md",
     "iPhone_15.md",
+    "_Sorted_.md",
+    "Datascience_Ops_Workshop.md",
+    "Sparkasse_Reset_Password.md",
+    "GT7.md",
+    "Telekom/MPathic_DBT.md",
     "Quinoa.md",
     "Azure Pipelines Git.md",
     "Parent_Meeting_Naomi-20.09.2023.md",
     "Contiamo/Datahub_Upgrades.md",
     "Kubectl-Tricks.md",
-    "_Sorted_.md",
     "Docker_Tips.md",
     "Telekom/Superst_to_Athena.md",
     "Plex.md",
     "1Password Tips.md",
-    "Sparkasse_Reset_Password.md",
     "SShuttle.md",
     "Terraform.md",
     "Contiamo/Snowflake Key Auth.md",

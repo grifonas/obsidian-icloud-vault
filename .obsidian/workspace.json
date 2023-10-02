@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7802919130d08876",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Sorted_.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,10 +195,14 @@
       "obsidian-trim-whitespace:Trim whitespace": false
     }
   },
-  "active": "b623b971bee73352",
+  "active": "76ad827d768751e6",
   "lastOpenFiles": [
-    "iPhone_15.md",
+    "Tech",
+    "Personal",
+    "CBRE/CBRE-Snowflake-Pipes.md",
+    "CBRE/CBRE_GDP_Replatforming_AZ_Pipeline.md",
     "_Sorted_.md",
+    "iPhone_15.md",
     "Datascience_Ops_Workshop.md",
     "Sparkasse_Reset_Password.md",
     "GT7.md",
@@ -208,9 +224,6 @@
     "K3S.md",
     "_Sorted.md",
     "Work by Customers.md",
-    "Sorted.md",
-    "CBRE/Snowflake-Pipes.md",
-    "CBRE/CBRE-Replatforming-Terraform.md",
     "Gautzsch",
     "Telekom",
     "Contiamo",

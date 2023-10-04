@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/iPhone_Tripod.md",
+                "file": "CBRE/CBRE_DBT_Deployment.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/iPhone_Tripod.md",
+                "file": "CBRE/CBRE_DBT_Deployment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/iPhone_Tripod.md",
+                "file": "CBRE/CBRE_DBT_Deployment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/iPhone_Tripod.md"
+                "file": "CBRE/CBRE_DBT_Deployment.md"
               }
             }
           },
@@ -197,9 +197,10 @@
   },
   "active": "b623b971bee73352",
   "lastOpenFiles": [
-    "Personal/Parent_Meeting_Naomi-20.09.2023.md",
-    "Personal/iPhone_Tripod.md",
     "_Sorted_.md",
+    "CBRE/CBRE_DBT_Deployment.md",
+    "Personal/iPhone_Tripod.md",
+    "Personal/Parent_Meeting_Naomi-20.09.2023.md",
     "Telekom/Superst_to_Athena.md",
     "Telekom/MPathic_DBT.md",
     "Tech/Terraform.md",
@@ -224,7 +225,6 @@
     "Tech",
     "Personal",
     "iPhone_15.md",
-    "Personal/Sparkasse_Reset_Password.md",
     "Gautzsch",
     "Telekom",
     "Contiamo",

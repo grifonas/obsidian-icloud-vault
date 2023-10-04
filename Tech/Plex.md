@@ -1,4 +1,4 @@
-#tech-tip 
+#tech-tip
 ## Installed Directly on Pi4
 Note that this a completely new Plex account.
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker_Tips.md",
+                "file": "Tech/Docker_Tips.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GT7.md",
+                "file": "Personal/GT7.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Sorted_.md",
+                "file": "Personal/iPhone_Tripod.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Sorted_.md",
+                "file": "CBRE/CBRE_Holiday_Handover_01.08.23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Sorted_.md",
+                "file": "Personal/iPhone_Tripod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Sorted_.md",
+                "file": "Personal/iPhone_Tripod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Sorted_.md"
+                "file": "Personal/iPhone_Tripod.md"
               }
             }
           },
@@ -195,35 +195,36 @@
       "obsidian-trim-whitespace:Trim whitespace": false
     }
   },
-  "active": "76ad827d768751e6",
+  "active": "b623b971bee73352",
   "lastOpenFiles": [
+    "Personal/Parent_Meeting_Naomi-20.09.2023.md",
+    "Personal/iPhone_Tripod.md",
+    "_Sorted_.md",
+    "Telekom/Superst_to_Athena.md",
+    "Telekom/MPathic_DBT.md",
+    "Tech/Terraform.md",
+    "Tech/SShuttle.md",
+    "Tech/Plex.md",
+    "Tech/Kubectl-Tricks.md",
+    "Tech/K3S.md",
+    "Tech/Docker_Tips.md",
+    "Tech/1Password Tips.md",
+    "CBRE/CBRE-Snowflake-Pipes.md",
+    "CBRE/CBRE-Replatforming-Terraform.md",
+    "CBRE/CBRE-Migration-to-Snowflake-Naming.md",
+    "CBRE/CBRE-Migration-to-Snowflake-Infra-Docs.md",
+    "CBRE/CBRE-Migration-to-Snowflake-Access.md",
+    "CBRE/CBRE-Core-Module.md",
+    "CBRE/CBRE-Azure Pipelines Git.md",
+    "CBRE/CBRE_Holiday_Handover_01.08.23.md",
+    "CBRE/CBRE_GDP_Replatforming_AZ_Pipeline.md",
+    "Contiamo/Datahub_Upgrades.md",
+    "Contiamo/Datascience_Ops_Workshop.md",
+    "Contiamo/Snowflake Key Auth.md",
     "Tech",
     "Personal",
-    "CBRE/CBRE-Snowflake-Pipes.md",
-    "CBRE/CBRE_GDP_Replatforming_AZ_Pipeline.md",
-    "_Sorted_.md",
     "iPhone_15.md",
-    "Datascience_Ops_Workshop.md",
-    "Sparkasse_Reset_Password.md",
-    "GT7.md",
-    "Telekom/MPathic_DBT.md",
-    "Quinoa.md",
-    "Azure Pipelines Git.md",
-    "Parent_Meeting_Naomi-20.09.2023.md",
-    "Contiamo/Datahub_Upgrades.md",
-    "Kubectl-Tricks.md",
-    "Docker_Tips.md",
-    "Telekom/Superst_to_Athena.md",
-    "Plex.md",
-    "1Password Tips.md",
-    "SShuttle.md",
-    "Terraform.md",
-    "Contiamo/Snowflake Key Auth.md",
-    "Pizza Dough.md",
-    "Gautzsch/Gautzsch.md",
-    "K3S.md",
-    "_Sorted.md",
-    "Work by Customers.md",
+    "Personal/Sparkasse_Reset_Password.md",
     "Gautzsch",
     "Telekom",
     "Contiamo",

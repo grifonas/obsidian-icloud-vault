@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ef2ed3e639ae26fc",
+        "id": "94061fdf086e31cf",
         "type": "tabs",
         "children": [
           {
-            "id": "a43ab5baf1aa8ac7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "102e08c559def7ea",
+            "id": "e435c03a9736cf8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GT7.md",
+                "file": "Personal/iPhone_Tripod.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "GT7.md",
+            "file": "Personal/iPhone_Tripod.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "GT7.md",
+            "file": "Personal/iPhone_Tripod.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "GT7.md"
+            "file": "Personal/iPhone_Tripod.md"
           }
         }
       }
@@ -143,8 +134,14 @@
   },
   "active": "b140b661fb4e5db1",
   "lastOpenFiles": [
-    "Quinoa.md",
+    "Personal/Quinoa.md",
+    "Personal/iPhone_Tripod.md",
+    "Personal/Parent_Meeting_Naomi-20.09.2023.md",
+    "Personal/Sparkasse_Reset_Password.md",
     "_Sorted_.md",
+    "Contiamo/Datascience_Ops_Workshop.md",
+    "CBRE/CBRE_GDP_Replatforming_AZ_Pipeline.md",
+    "Quinoa.md",
     "Contiamo/Snowflake Key Auth.md",
     "Contiamo/Datahub_Upgrades.md",
     "CBRE/CBRE-Migration-to-Snowflake-Access.md",
@@ -163,12 +160,6 @@
     "Terraform.md",
     "Parent_Meeting_Naomi-20.09.2023.md",
     "CBRE/CBRE-Replatforming-Terraform.md",
-    "K3S.md",
-    "Azure Pipelines Git.md",
-    "Telekom/MPathic_DBT.md",
-    "Kubectl-Tricks.md",
-    "Pizza Dough.md",
-    "Docker_Tips.md",
     "Contiamo",
     "Gautzsch",
     "Telekom"

@@ -1,4 +1,4 @@
-#cbre 
+#cbre
 ## Azure Pipeline Git Commands
 
 You might come across this error:

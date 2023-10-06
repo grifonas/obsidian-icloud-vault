@@ -368,3 +368,14 @@ trigger:
 		include:
 			- '*'
 ```
+
+```yaml
+  - bash: |
+      curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+      unzip -u awscliv2.zip
+      sudo ./aws/install --update
+    displayName: Install AWS CLI
+  - bash: |
+      aws sts get-caller-identity
+    displayName: 'Debug AWS'
+```

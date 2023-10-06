@@ -1,4 +1,4 @@
-#cbre
+#cbre #azure
 ## Azure Pipeline Git Commands
 
 You might come across this error:
@@ -241,7 +241,6 @@ jobs:
 
 ```
 
-
 ```yaml
 # See https://aka.ms/yaml
 pool: Gdp-Replatform-pool
@@ -356,6 +355,16 @@ jobs:
         git push origin $(Build.SourceBranch)
       displayName: 'Commit Generated Tables'
       condition: eq(variables.changesDetected, 'true')
+```
 
-
+```yaml
+trigger:
+  branches:
+    include:
+      - main
+	  - dev
+	  - feat-implement-flat-cdc-model-generator # Here for testing purposes
+	tags:
+		include:
+			- '*'
 ```

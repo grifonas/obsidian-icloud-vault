@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CBRE/CBRE-Azure Pipelines Git.md",
+                "file": "Personal/iPhone_Tripod.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "azure",
+                "query": "tripo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CBRE/CBRE-Azure Pipelines Git.md",
+                "file": "Personal/iPhone_Tripod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CBRE/CBRE-Azure Pipelines Git.md",
+                "file": "Personal/iPhone_Tripod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CBRE/CBRE-Azure Pipelines Git.md"
+                "file": "Personal/iPhone_Tripod.md"
               }
             }
           },
@@ -162,6 +162,7 @@
   "active": "7802919130d08876",
   "lastOpenFiles": [
     "_Sorted_.md",
+    "CBRE/CBRE-Azure Pipelines Git.md",
     "CBRE/CBRE_Holiday_Handover_01.08.23.md",
     "Personal/GT7.md",
     "Tech/Docker_Tips.md",
@@ -182,7 +183,6 @@
     "CBRE/CBRE-Migration-to-Snowflake-Infra-Docs.md",
     "CBRE/CBRE-Migration-to-Snowflake-Access.md",
     "CBRE/CBRE-Core-Module.md",
-    "CBRE/CBRE-Azure Pipelines Git.md",
     "CBRE/CBRE_GDP_Replatforming_AZ_Pipeline.md",
     "Contiamo/Datahub_Upgrades.md",
     "Contiamo/Datascience_Ops_Workshop.md",

@@ -18,6 +18,13 @@ SORT file.cdate
 ```dataview
 LIST FROM #recipe SORT file.cdate
 ```
+
+```dataview
+LIST L.text 
+FROM #recipe 
+FLATTEN file.lists AS L 
+WHERE contains(L.tags, "#recipe")
+```
 ## Games
 ```dataview
 LIST FROM #ps5 SORT file.cdate

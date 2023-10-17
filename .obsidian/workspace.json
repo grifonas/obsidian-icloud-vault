@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/iPhone_Tripod.md",
+                "file": "Telekom/Superset_Upgrade.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tripo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/iPhone_Tripod.md",
+                "file": "Telekom/Superset_Upgrade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/iPhone_Tripod.md",
+                "file": "Telekom/Superset_Upgrade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/iPhone_Tripod.md"
+                "file": "Telekom/Superset_Upgrade.md"
               }
             }
           },
@@ -161,15 +160,19 @@
   },
   "active": "7802919130d08876",
   "lastOpenFiles": [
+    "Telekom/Superset_to_Athena.md",
+    "Telekom/Superset_Upgrade.md",
     "_Sorted_.md",
+    "Personal/Quinoa.md",
+    "Personal/Pizza Dough.md",
+    "Personal/Mobile_Provider.md",
+    "Personal/iPhone_Tripod.md",
+    "Personal/Parent_Meeting_Naomi-20.09.2023.md",
     "CBRE/CBRE-Azure Pipelines Git.md",
     "CBRE/CBRE_Holiday_Handover_01.08.23.md",
     "Personal/GT7.md",
     "Tech/Docker_Tips.md",
     "CBRE/CBRE_DBT_Deployment.md",
-    "Personal/iPhone_Tripod.md",
-    "Personal/Parent_Meeting_Naomi-20.09.2023.md",
-    "Telekom/Superst_to_Athena.md",
     "Telekom/MPathic_DBT.md",
     "Tech/Terraform.md",
     "Tech/SShuttle.md",
@@ -183,10 +186,6 @@
     "CBRE/CBRE-Migration-to-Snowflake-Infra-Docs.md",
     "CBRE/CBRE-Migration-to-Snowflake-Access.md",
     "CBRE/CBRE-Core-Module.md",
-    "CBRE/CBRE_GDP_Replatforming_AZ_Pipeline.md",
-    "Contiamo/Datahub_Upgrades.md",
-    "Contiamo/Datascience_Ops_Workshop.md",
-    "Contiamo/Snowflake Key Auth.md",
     "Tech",
     "Personal",
     "Gautzsch",

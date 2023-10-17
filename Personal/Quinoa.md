@@ -5,7 +5,7 @@
 - 1 3/4 cups water
 ### Method
 
-- Combine the quinoa and water in [a medium pot](https://amzn.to/40corxv). Bring to a boil, cover, reduce the heat, and simmer for 15 minutes.
+- Combine the quinoa and water in a medium pot. Bring to a boil, cover, reduce the heat, and simmer for 15 minutes. #recipe
 
 - Remove from the heat and let it sit, covered for 10 more minutes.
 

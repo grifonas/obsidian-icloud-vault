@@ -1,7 +1,6 @@
-#recipe
 #cooking
 
-- Enough for 6 People: https://anitalianinmykitchen.com/best-pizza-dough/#recipe
+- Enough for 6 People: https://anitalianinmykitchen.com/best-pizza-dough/ #recipe
 
 ## Ingredients
 

@@ -16,10 +16,6 @@ SORT file.cdate
 ```
 ## Recipes
 ```dataview
-LIST FROM #recipe SORT file.cdate
-```
-
-```dataview
 LIST L.text 
 FROM #recipe 
 FLATTEN file.lists AS L 

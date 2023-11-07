@@ -1,4 +1,4 @@
-#contiamo 
+#contiamo
 # Datascience Workshop Topics
 
 ## Ideas/Plans

@@ -1,4 +1,4 @@
-#ps5 
+#ps5
 # GT7 Grinds
 
 ## Sardinia

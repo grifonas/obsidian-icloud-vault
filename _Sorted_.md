@@ -1,12 +1,6 @@
-# Home
-
-## Admin
+# Personal
 ```dataview
-LIST FROM #admin SORT file.cdate
-```
-## Children
-```dataview
-LIST FROM #children SORT file.cdate
+LIST from "Personal"
 ```
 ## Tech Tips
 
@@ -20,10 +14,6 @@ LIST L.text
 FROM #recipe 
 FLATTEN file.lists AS L 
 WHERE contains(L.tags, "#recipe")
-```
-## Games
-```dataview
-LIST FROM #ps5 SORT file.cdate
 ```
 # Work
 

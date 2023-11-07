@@ -1,4 +1,4 @@
-#cbre 
+#cbre
 # Key Pair Authentication in Snowflake
 
 Taken from [here](https://docs.snowflake.com/en/user-guide/key-pair-auth).

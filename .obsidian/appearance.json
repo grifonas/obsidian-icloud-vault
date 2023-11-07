@@ -1,8 +1,9 @@
 {
   "accentColor": "",
   "theme": "system",
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "",
   "interfaceFontFamily": "B612",
   "textFontFamily": "B612",
-  "monospaceFontFamily": "B612"
+  "monospaceFontFamily": "B612",
+  "baseFontSize": 16
 }

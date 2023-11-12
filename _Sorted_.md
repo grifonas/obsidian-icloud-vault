@@ -1,3 +1,11 @@
+## Recipes
+```dataview
+LIST L.text 
+FROM #recipe 
+FLATTEN file.lists AS L 
+WHERE contains(L.tags, "#recipe")
+```
+
 # Personal
 ```dataview
 LIST from "Personal"
@@ -7,13 +15,6 @@ LIST from "Personal"
 ```dataview
 LIST FROM #tech-tip 
 SORT file.cdate
-```
-## Recipes
-```dataview
-LIST L.text 
-FROM #recipe 
-FLATTEN file.lists AS L 
-WHERE contains(L.tags, "#recipe")
 ```
 # Work
 

@@ -8,43 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7802919130d08876",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contiamo/Ops-Onboarding.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "36b08cffbada423c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contiamo/Terraform_OIDC_AWS.md",
+                "file": "Personal/Banana_Bread.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "738a7b08822740c4",
+            "id": "199b3b98e0218d17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/1Password Tips.md",
+                "file": "Personal/Self_Raising_Flour.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "oidc",
+                "query": "tag:#recipe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contiamo/Terraform_OIDC_AWS.md",
+                "file": "Personal/Banana_Bread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contiamo/Terraform_OIDC_AWS.md",
+                "file": "Personal/Banana_Bread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contiamo/Terraform_OIDC_AWS.md"
+                "file": "Personal/Banana_Bread.md"
               }
             }
           },
@@ -185,8 +173,13 @@
   },
   "active": "36b08cffbada423c",
   "lastOpenFiles": [
-    "Contiamo/Snowflake Key Auth.md",
+    "Personal/Self_Raising_Flour.md",
+    "Personal/Banana_Bread.md",
+    "_Sorted_.md",
+    "Personal/Quinoa.md",
+    "Tech/Terraform.md",
     "Contiamo/Terraform_OIDC_AWS.md",
+    "Contiamo/Snowflake Key Auth.md",
     "Contiamo/Ops-Onboarding.md",
     "Contiamo/Github_Actions_OIDC_Google.md",
     "Tech/Docker_Tips.md",
@@ -200,17 +193,12 @@
     "Tech/Plex.md",
     "Tech/SShuttle.md",
     "Telekom/MPathic_DBT.md",
-    "Tech/Terraform.md",
     "Personal/Sparkasse_Reset_Password.md",
     "Telekom/Superset_Upgrade.md",
-    "_Sorted_.md",
     "Personal/Chromecast_TV.md",
     "Personal/GT7.md",
     "Personal/iPhone_Tripod.md",
     "Telekom/Superset_to_Athena.md",
-    "Personal/Quinoa.md",
-    "Personal/Pizza Dough.md",
-    "Personal/Mobile_Provider.md",
     "Tech",
     "Personal",
     "Gautzsch",

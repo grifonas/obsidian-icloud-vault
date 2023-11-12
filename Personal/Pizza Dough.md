@@ -13,12 +13,22 @@
 
 ## Instructions
 
-- In the bowl of your stand up mixer (or a large bowl if you knead by hand) add the warm water and sugar, sprinkle the yeast on top, let sit for 5-10 minutes, then stir to combine. Continue with Machine or Hand.
+-  Add the warm water (480 g)
+-  and sugar (1 pinch)
+-  sprinkle the yeast on top (1.5 tbsp)
+-  let sit for 5-10 minutes,
+-  stir to combine. 
+-  Continue with Machine or Hand.
 
 
 #### MIXING BY MACHINE
 
-- Add the olive oil, flour and salt, with the hook attachment start to combine on low speed #1, scrape the hook and then raise to medium speed #2 and knead for approximately 5-7 minutes or until you have a smooth elastic dough (scrape the hook halfway through kneading).  
+- Add the olive oil (2 tbsp)
+-  flour (685 g)
+-  salt (1.5 tsp)
+-  with the hook attachment start to combine on low speed #1,
+-  scrape the hook
+-  then raise to medium speed #2 and knead for approximately 5-7 minutes or until you have a smooth elastic dough (scrape the hook halfway through kneading).  
 
 
 #### MIXING BY HAND

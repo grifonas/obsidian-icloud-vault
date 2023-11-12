@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c7e889be02882791",
+        "id": "68d32130b196c801",
         "type": "tabs",
         "children": [
           {
-            "id": "36b08cffbada423c",
+            "id": "f94410949bee8099",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Banana_Bread.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "199b3b98e0218d17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Self_Raising_Flour.md",
+                "file": "Personal/American_Pancakes.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Banana_Bread.md",
+                "file": "Personal/American_Pancakes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Banana_Bread.md",
+                "file": "Personal/American_Pancakes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Banana_Bread.md"
+                "file": "Personal/American_Pancakes.md"
               }
             }
           },
@@ -171,11 +158,12 @@
       "obsidian-trim-whitespace:Trim whitespace": false
     }
   },
-  "active": "36b08cffbada423c",
+  "active": "f94410949bee8099",
   "lastOpenFiles": [
-    "Personal/Self_Raising_Flour.md",
-    "Personal/Banana_Bread.md",
     "_Sorted_.md",
+    "Personal/American_Pancakes.md",
+    "Personal/Banana_Bread.md",
+    "Personal/Self_Raising_Flour.md",
     "Personal/Quinoa.md",
     "Tech/Terraform.md",
     "Contiamo/Terraform_OIDC_AWS.md",
@@ -198,7 +186,6 @@
     "Personal/Chromecast_TV.md",
     "Personal/GT7.md",
     "Personal/iPhone_Tripod.md",
-    "Telekom/Superset_to_Athena.md",
     "Tech",
     "Personal",
     "Gautzsch",

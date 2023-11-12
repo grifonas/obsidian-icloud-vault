@@ -1,10 +1,12 @@
 ## Recipes
+
 ```dataview
 LIST L.text 
 FROM #recipe 
 FLATTEN file.lists AS L 
 WHERE contains(L.tags, "#recipe")
 ```
+
 
 # Personal
 ```dataview
